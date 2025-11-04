@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76bd784f-82ff-44e3-bfc7-8b9a3ed246fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-2/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-2/TestShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-2/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/INFO5100_002035387_YiZhang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/INFO5100_002035387_YiZhang.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Exercise-1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Exercise-1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/INFO5100_002035387_YiZhang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/INFO5100_002035387_YiZhang.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-2/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
