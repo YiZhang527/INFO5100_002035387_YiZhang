@@ -5,14 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76bd784f-82ff-44e3-bfc7-8b9a3ed246fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-1/FullTimeStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-1/PartTimeStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-1/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/INFO5100_002035387_YiZhang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Exercise-1a/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Exercise-1b/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Exercises/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Exercises/Exercise-1a/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Exercises/Exercise-1b/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/FullTimeStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/PartTimeStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Session.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/INFO5100_002035387_YiZhang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/INFO5100_002035387_YiZhang.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,10 +68,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
     "Application.NumberGuessingGame.executor": "Run",
     "Application.OnlineStoreSystem.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
@@ -54,15 +84,22 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exercises/Exercise-1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
         <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
       </set>
     </attachedChunks>
   </component>
@@ -75,6 +112,7 @@
       <updated>1758600263654</updated>
       <workItem from="1758600264858" duration="472000" />
       <workItem from="1758600756584" duration="236000" />
+      <workItem from="1760812662774" duration="80000" />
     </task>
     <servers />
   </component>
