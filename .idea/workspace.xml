@@ -5,29 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76bd784f-82ff-44e3-bfc7-8b9a3ed246fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-1/FullTimeStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-1/PartTimeStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-1/Session.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/INFO5100_002035387_YiZhang.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Exercise-1a/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Exercise-1b/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Exercises/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Exercises/Exercise-1a/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Exercises/Exercise-1b/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/FullTimeStudent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/PartTimeStudent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Session.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-2/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-2/TestShapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-2/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/INFO5100_002035387_YiZhang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/INFO5100_002035387_YiZhang.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise-1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Exercise-1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/INFO5100_002035387_YiZhang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/INFO5100_002035387_YiZhang.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +58,7 @@
     "Application.Main.executor": "Run",
     "Application.NumberGuessingGame.executor": "Run",
     "Application.OnlineStoreSystem.executor": "Run",
+    "Application.TestShapes.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -84,9 +72,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/zhangyi/Yi/Study/Northeastern/class/5100Java/INFO5100_002035387_YiZhang/Exercises/Exercise-2/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.scopes",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -118,5 +108,27 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Exercises/Exercise-2/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
