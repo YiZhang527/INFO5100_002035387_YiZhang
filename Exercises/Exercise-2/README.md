@@ -7,8 +7,8 @@ This Java program demonstrates the concepts of:
 - Polymorphism (Shape[] array)
 - Static fields (Shape.color)
 
-## How to run
+## How to run:
 1. Compile all classes:
    javac *.java
-2. Run Main:
-   java Main
+2. Run the program:
+   java TestShapes
