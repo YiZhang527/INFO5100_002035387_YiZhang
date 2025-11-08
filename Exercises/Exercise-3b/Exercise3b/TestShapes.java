@@ -1,3 +1,5 @@
+package Exercise3b;
+
 public class TestShapes {
     public static void main(String[] args) {
         Shape[] shapes = new Shape[4];

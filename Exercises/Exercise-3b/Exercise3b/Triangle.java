@@ -1,3 +1,5 @@
+package Exercise3b;
+
 public class Triangle extends Shape {
     double a;
     double b;

@@ -1,3 +1,5 @@
+package Exercise3b;
+
 public class Rectangle extends Shape {
     double width;
     double length;

@@ -2,3 +2,7 @@
 ## Exercises
 - [Exercise-1a](./Exercises/Exercise-1a)
 - [Exercise-1b](./Exercises/Exercise-1b)
+- [Exercise-1](./Exercises/Exercise-1)
+- [Exercise-2](./Exercises/Exercise-2)
+- [Exercise-9](./Exercises/Exercise-9)
+- [Exercise-3b](./Exercises/Exercise-3b)

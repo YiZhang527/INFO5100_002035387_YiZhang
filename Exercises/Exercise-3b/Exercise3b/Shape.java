@@ -1,6 +1,8 @@
-package Exercise-3b;
+package Exercise3b;
 
-abstract class Shape {
+import java.io.Serializable;
+
+abstract class Shape implements Serializable {
     static String color = "Blue";
 
     abstract double calculateArea();

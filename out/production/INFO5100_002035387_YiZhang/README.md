@@ -1,29 +1,28 @@
-# Exercise-1: Student Management System
+# Exercise 3b - Serialization
 
-## Program Structure
+## Assignment Requirements
+- Make Exercise 2 classes serializable
+- Test serialization and deserialization
 
-### Class Hierarchy
-- **Student (Base Class)**: Has name and 15 quiz scores array
-- **PartTimeStudent**: Extends Student, no additional fields
-- **FullTimeStudent**: Extends Student, adds 2 exam scores (exam1Score, exam2Score)
+## What I Did
 
-### Session Class
-- Holds array of 20 students (mix of part-time and full-time)
-- Methods:
-    - `calculateAverageQuizScores()`: Calculate and print average quiz score for each student
-    - `printQuizScoresAscending()`: Sort and print all 300 quiz scores
-    - `printPartTimeStudentNames()`: Print names of part-time students
-    - `printFullTimeStudentExamScores()`: Print exam scores of full-time students
+### Step 1: Copied Exercise-2 folder to Exercise-3b
 
-### TestShapes Program
-- Creates 20 students (10 part-time, 10 full-time)
-- Assigns random scores:
-    - Quiz scores: 60-100 for all students (15 quizzes each)
-    - Exam scores: 60-100 for full-time students only (2 exams)
-- Calls all Session methods to display results
+### Step 2: Modified classes for serialization
+- Added `implements Serializable` to Shape.java
+- Added `import java.io.Serializable;` to Shape.java
+- Added `package Exercise3b;` to all Java files
 
-### Key Techniques Used
-- `instanceof` to identify student types
-- Type casting to access FullTimeStudent-specific methods
-- `Arrays.sort()` for sorting quiz scores
-- Random score generation: `60 + rand.nextDouble() * 40`
+### Step 3: Created TestSerialization.java
+- Created 4 shape objects (Circle, Rectangle, Square, Triangle)
+- Saved objects to shapes.ser file using ObjectOutputStream
+- Read objects back from file using ObjectInputStream
+- Printed each object's info to verify data integrity
+
+## Results
+Successfully serialized and deserialized all 4 shapes. All properties (radius, width, height) and methods (calculateArea, calculatePerimeter) work correctly after deserialization.
+
+## What I Learned
+- Serializable interface allows Java objects to be saved to files
+- Only parent class needs to implement Serializable, subclasses inherit it
+- Serialization is useful for data persistence and network transfer

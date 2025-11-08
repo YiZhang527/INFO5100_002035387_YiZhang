@@ -9,8 +9,11 @@
       <sourceFolder url="file://$MODULE_DIR$/Exercises" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exercises/Exercise-1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exercises/Exercise-2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercises/Exercise-9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercises/Exercise-3b" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="lib" level="project" />
   </component>
 </module>
