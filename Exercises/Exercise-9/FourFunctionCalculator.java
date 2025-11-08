@@ -24,7 +24,6 @@ public class FourFunctionCalculator extends Application {
         Button mulButton = new Button("*");
         Button divButton = new Button("/");
 
-        // 事件处理
         addButton.setOnAction(e -> {
             double n1 = Double.parseDouble(num1Field.getText());
             double n2 = Double.parseDouble(num2Field.getText());
