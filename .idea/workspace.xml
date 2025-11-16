@@ -7,16 +7,8 @@
     <list default="true" id="76bd784f-82ff-44e3-bfc7-8b9a3ed246fb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/INFO5100_002035387_YiZhang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/INFO5100_002035387_YiZhang.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Exercise-3b/Exercise3b/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Exercise-3b/Exercise3b/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Exercise-3b/Exercise3b/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Exercise-3b/Exercise3b/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Exercise-3b/Exercise3b/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Exercise-3b/Exercise3b/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Exercise-3b/Exercise3b/TestSerialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Exercise-3b/Exercise3b/TestSerialization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Exercise-3b/Exercise3b/TestShapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Exercise-3b/Exercise3b/TestShapes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Exercise-3b/Exercise3b/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Exercise-3b/Exercise3b/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Exercise-3b/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Exercise-3b/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/INFO5100_002035387_YiZhang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/INFO5100_002035387_YiZhang.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +53,7 @@
     "Application.Main.executor": "Run",
     "Application.NumberGuessingGame.executor": "Run",
     "Application.OnlineStoreSystem.executor": "Run",
+    "Application.RegexPattern.executor": "Run",
     "Application.TestSerialization.executor": "Run",
     "Application.TestShapes.executor": "Run",
     "Application.Unnamed.executor": "Run",

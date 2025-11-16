@@ -6,3 +6,4 @@
 - [Exercise-2](./Exercises/Exercise-2)
 - [Exercise-9](./Exercises/Exercise-9)
 - [Exercise-3b](./Exercises/Exercise-3b)
+- [Exercise-4](./Exercises/Exercise-4)

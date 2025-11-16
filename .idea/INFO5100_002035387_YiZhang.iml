@@ -11,6 +11,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Exercises/Exercise-2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exercises/Exercise-9" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exercises/Exercise-3b" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercises/Exercise-3b/Exercise3b" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercises/Exercise-4" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
