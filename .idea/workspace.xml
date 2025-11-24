@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76bd784f-82ff-44e3-bfc7-8b9a3ed246fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-8/BookParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-8/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-8/books.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-8/books.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/INFO5100_002035387_YiZhang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/INFO5100_002035387_YiZhang.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/INFO5100_002035387_YiZhang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/INFO5100_002035387_YiZhang.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.BookParser.executor": "Run",
     "Application.FourFunctionCalculator .executor": "Run",
     "Application.FourFunctionCalculator.executor": "Run",
     "Application.Main.executor": "Run",

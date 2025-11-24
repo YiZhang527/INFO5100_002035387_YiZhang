@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BookShelf>
+    <Book>
+        <title>Java Basics</title>
+        <publishedYear>2020</publishedYear>
+        <numberOfPages>350</numberOfPages>
+        <authors>
+            <author>John Doe</author>
+            <author>Jane Smith</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Python Fundamentals</title>
+        <publishedYear>2019</publishedYear>
+        <numberOfPages>400</numberOfPages>
+        <authors>
+            <author>Alice Brown</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Data Structures</title>
+        <publishedYear>2021</publishedYear>
+        <numberOfPages>500</numberOfPages>
+        <authors>
+            <author>Bob White</author>
+        </authors>
+    </Book>
+</BookShelf>

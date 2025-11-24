@@ -1,0 +1,22 @@
+{
+  "BookShelf": [
+    {
+      "title": "Java Basics",
+      "publishedYear": 2020,
+      "numberOfPages": 350,
+      "authors": ["John Doe", "Jane Smith"]
+    },
+    {
+      "title": "Python Fundamentals",
+      "publishedYear": 2019,
+      "numberOfPages": 400,
+      "authors": ["Alice Brown"]
+    },
+    {
+      "title": "Data Structures",
+      "publishedYear": 2021,
+      "numberOfPages": 500,
+      "authors": ["Bob White"]
+    }
+  ]
+}

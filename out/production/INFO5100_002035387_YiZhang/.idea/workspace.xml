@@ -4,90 +4,171 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9fb10ec-8f7d-4d3f-9220-eab99f2bfffe" name="Changes" comment="" />
+    <list default="true" id="76bd784f-82ff-44e3-bfc7-8b9a3ed246fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-8/BookParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-8/books.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Exercise-8/books.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/INFO5100_002035387_YiZhang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/INFO5100_002035387_YiZhang.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/INFO5100_002035387_YiZhang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/.idea/INFO5100_002035387_YiZhang.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Exercise3b/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Exercise3b/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Exercise3b/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Exercise3b/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Exercise3b/TestSerialization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Exercise3b/TestShapes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Exercise3b/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/FourFunctionCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/FullTimeStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/NumberGuessingGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/OnlineStoreSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/PartTimeStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/RegexPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Session.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/TestShapes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002035387_YiZhang/Triangle.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "YiZhang527"
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YiZhang527&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/YiZhang527/INFO5100_002035387_YiZhang.git",
-    "accountId": "048bcbf1-7235-4e42-8356-4079fbde064b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/YiZhang527/INFO5100_002035387_YiZhang.git&quot;,
+    &quot;accountId&quot;: &quot;048bcbf1-7235-4e42-8356-4079fbde064b&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
-  <component name="ProjectId" id="33aJKzCgJhsw8bdVjUT97yOlLKz" />
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="335Hy1QjdhtZ2hj6VavYyrv5lDh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.BookParser.executor": "Run",
+    "Application.FourFunctionCalculator .executor": "Run",
+    "Application.FourFunctionCalculator.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.NumberGuessingGame.executor": "Run",
     "Application.OnlineStoreSystem.executor": "Run",
+    "Application.RegexPattern.executor": "Run",
+    "Application.TestSerialization.executor": "Run",
+    "Application.TestShapes.executor": "Run",
+    "Application.Unnamed.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/zhangyi/Yi/Study/Northeastern/class/5100Java/INFO5100_002035387_YiZhang/Exercises",
+    "last_opened_file_path": "/Users/zhangyi/Yi/Study/Northeastern/class/5100Java/INFO5100_002035387_YiZhang/Exercises/Exercise-3b",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/zhangyi/Yi/Study/Northeastern/class/5100Java/INFO5100_002035387_YiZhang/Exercises/Exercise-1b/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/zhangyi/Yi/Study/Northeastern/class/5100Java/INFO5100_002035387_YiZhang/Exercises/Exercise-2/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.scopes",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exercises/Exercise-3b" />
+      <recent name="$PROJECT_DIR$/Exercises" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exercises/Exercise-3b" />
+      <recent name="$PROJECT_DIR$/Exercises/Exercise-1" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="OnlineStoreSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OnlineStoreSystem" />
-      <module name="Exercise-1b" />
+    <configuration name="FourFunctionCalculator " type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FourFunctionCalculator" />
+      <module name="INFO5100_002035387_YiZhang" />
+      <option name="VM_PARAMETERS" value="--module-path=$PROJECT_DIR$/../../../../../Tools/javafx-sdk-25/lib --add-modules=javafx.controls,javafx.fxml --enable-native-access=javafx.graphics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.OnlineStoreSystem" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
         <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
       </set>
     </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c9fb10ec-8f7d-4d3f-9220-eab99f2bfffe" name="Changes" comment="" />
-      <created>1759549189716</created>
+      <changelist id="76bd784f-82ff-44e3-bfc7-8b9a3ed246fb" name="Changes" comment="" />
+      <created>1758600263654</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1759549189716</updated>
-      <workItem from="1759549190874" duration="22814000" />
+      <updated>1758600263654</updated>
+      <workItem from="1758600264858" duration="472000" />
+      <workItem from="1758600756584" duration="236000" />
+      <workItem from="1760812662774" duration="80000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Exercises/Exercise-2/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
